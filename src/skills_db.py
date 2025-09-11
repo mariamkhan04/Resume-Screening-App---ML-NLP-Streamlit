@@ -1,0 +1,28 @@
+# a/c to all categories in dataset
+skills_db = {
+    "Java Developer": ["java", "spring", "hibernate", "maven", "jsp", "j2ee"],
+    "Testing": ["selenium", "manual testing", "automation", "junit", "qa"],
+    "DevOps Engineer": ["docker", "kubernetes", "jenkins", "aws", "ci/cd"],
+    "Python Developer": ["python", "django", "flask", "pandas", "numpy"],
+    "Web Designing": ["html", "css", "javascript", "ui", "ux", "bootstrap"],
+    "HR": ["recruitment", "employee relations", "hr policies", "onboarding"],
+    "Hadoop": ["hadoop", "spark", "hive", "pig", "mapreduce"],
+    "Sales": ["salesforce", "negotiation", "crm", "lead generation"],
+    "Data Science": ["machine learning", "pandas", "scikit-learn", "deep learning", "statistics", "python","analytics","sql","Problem Solving"],
+    "Mechanical Engineer": ["autocad", "solidworks", "manufacturing", "thermodynamics"],
+    "ETL Developer": ["etl", "informatica", "talend", "ssis", "data warehouse"],
+    "Blockchain": ["blockchain", "ethereum", "solidity", "smart contracts"],
+    "Operations Manager": ["operations", "supply chain", "project management"],
+    "Arts": ["painting", "drawing", "design", "creative"],
+    "Database": ["sql", "oracle", "mysql", "postgresql"],
+    "Health and fitness": ["nutrition", "fitness", "training", "exercise"],
+    "PMO": ["project management", "pmo", "ms project"],
+    "Electrical Engineering": ["circuits", "matlab", "pcb", "electronics"],
+    "Business Analyst": ["business analysis", "requirement gathering", "agile", "jira"],
+    "DotNet Developer": [".net", "c#", "asp.net", "mvc", "entity framework"],
+    "Automation Testing": ["selenium", "cypress", "automation", "testng"],
+    "Network Security Engineer": ["firewall", "vpn", "ids", "ips", "cybersecurity"],
+    "Civil Engineer": ["autocad", "structural", "construction", "surveying"],
+    "SAP Developer": ["sap", "abap", "sap hana", "erp"],
+    "Advocate": ["legal", "litigation", "contract", "law"]
+}
