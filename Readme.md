@@ -4,6 +4,8 @@
 
 Build an **AI-powered Resume Screening App** using **NLP + Machine Learning + Streamlit** to help recruiters automatically classify resumes, extract skills, and compute candidate fit scores.
 
+[Preview App](https://automated-resume-screening-ml.streamlit.app/#automated-resume-screening)
+
 ---
 
 ## 📂 Dataset
