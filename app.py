@@ -95,30 +95,21 @@ elif app_mode == 'About Author':
     st.markdown('<h1 class="stTitle">👩‍💻 About the Author</h1>', unsafe_allow_html=True)
     st.markdown('<p class="stSubtitle">Know the creator behind this project</p>', unsafe_allow_html=True)
 
-    st.write("### 🌟 Mariam Khan")
+    st.write("### Mariam Khan")
     st.write("📍 Karachi, Pakistan")
     st.write("📧 Email: **khanmariam684@gmail.com**")
     st.write("🔗 [LinkedIn](https://www.linkedin.com/in/mariam-khan0424) | [GitHub](https://github.com/mariamkhan04)")
 
-    st.write("### 🎯 About Me")
+    st.write("### About Me 🎯")
     st.markdown("""
-    Computer Science undergraduate specializing in **Data Science, Machine Learning, and AI**.  
-    Passionate about transforming data into insights, building ML models, and creating impactful solutions.  
+    I am an undergraduate doing BSCS from Karachi University(UBIT), passionate about **Data Science, Machine Learning, and AI**.  
+    Skilled in **Python, JavaScript, Pandas, NumPy, Scikit-learn, and data visualization tools**, I enjoy working on 
+    **analysis-driven and ML-based projects** that transform raw data into meaningful insights and practical solutions.  
     """)
-
-    st.write("### 🛠️ Core Skills")
+    
+    st.write("### Why this Project? 🚀")
     st.markdown("""
-    - Python, SQL, JavaScript  
-    - Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
-    - Machine Learning & Data Visualization  
-    - Problem Solving & Data Storytelling  
+    This project was part of my **Data Science Bootcamp challenge**, where I learned and implemented key strategies like 
+    **text preprocessing, feature engineering, model training, and deployment** completely on my own.  
+    It reflects both my technical learning journey and ability to apply concepts to solve real-world problems.  
     """)
-
-    st.write("### 📂 Highlight Projects")
-    st.markdown("""
-    - **Telco Customer Churn Prediction** → ML models with class imbalance handling  
-    - **Student Performance Analysis** → EDA + Power BI Dashboard  
-    - **Fuel Consumption Prediction** → ML + FastAPI deployment  
-    """)
-
-    st.markdown('</div>', unsafe_allow_html=True)
