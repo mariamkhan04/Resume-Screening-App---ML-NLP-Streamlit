@@ -51,13 +51,13 @@ resume_screening/
 │   ├── file_utils.py             # Extract text from PDF/DOCX
 │   ├── skills_db.py              # Skills database per job category
 │   ├── app_helpers.py            # Helper functions for skills, education, fit score
-│   └── requirements.txt          # Python dependencies
 │
 ├── eda.ipynb                     # Exploratory Data Analysis
 ├── preprocess_utils.ipynb        # Preprocessing pipeline
 ├── train_model.py                # ML model training script
 ├── app.py                        # Streamlit app
-└── Readme.md                     # Project documentation
+├── Readme.md                     # Project documentation
+└── requirements.txt              # Python dependencies
 ```
 
 Run locally:
